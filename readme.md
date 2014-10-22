@@ -24,3 +24,11 @@ Looking for patterns between number of reviews and number of bookings
 
 * review analysis_guides.R
 * review analysis_tour.R
+
+##Data pulled from dB
+* *bookings users tours slots.csv* - see *bookings users tours slots.sql*
+* *reviews.csv* - pull of reviews table
+* *tours.csv* - pull of tours table
+* *GeoLiteCty.Location.csv* - download from GeoLiteCity website
+* *FeoLiteCityUnique.csv* - created in R code
+* *MaxMindList.csv* - created when calling MaxMind library
